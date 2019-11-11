@@ -1,0 +1,14 @@
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\bin\Debug\netcoreapp2.2\Atividade_PeDeFava.deps.json
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\bin\Debug\netcoreapp2.2\Atividade_PeDeFava.runtimeconfig.json
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\bin\Debug\netcoreapp2.2\Atividade_PeDeFava.runtimeconfig.dev.json
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\bin\Debug\netcoreapp2.2\Atividade_PeDeFava.dll
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\bin\Debug\netcoreapp2.2\Atividade_PeDeFava.pdb
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.csprojAssemblyReference.cache
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.csproj.CoreCompileInputs.cache
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.RazorAssemblyInfo.cache
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.RazorAssemblyInfo.cs
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.AssemblyInfoInputs.cache
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.AssemblyInfo.cs
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.RazorTargetAssemblyInfo.cache
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.dll
+C:\Users\vsjesus\source\repos\Atividade_PeDeFava\Atividade_PeDeFava\obj\Debug\netcoreapp2.2\Atividade_PeDeFava.pdb
