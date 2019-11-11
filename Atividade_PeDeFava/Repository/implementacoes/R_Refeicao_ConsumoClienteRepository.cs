@@ -17,12 +17,13 @@ namespace Atividade_PeDeFava.Repository.implementacoes
 
         public override async Task<R_Refeicao_ConsumoCliente> FindById(int id)
         {
-            var query = _context.R_Refeicao_ConsumoCliente
-                .Include(rCli => rCli.ConsumoCliente.Cliente)
-                .Where(rCli => rCli.ConsumoCliente.ClienteId.Equals(id))
+            return await _context.R_Refeicao_ConsumoCliente
+                .Include(rCli => rCli.ConsumoCliente)
+                .Include(rCli => rCli.Refeicao)
+                .Where(rCli => rCli.Id.Equals(id))
                 .SingleOrDefaultAsync();
 
-            query = _context.R_Refeicao_ConsumoCliente
+           /* query = _context.R_Refeicao_ConsumoCliente
                 .Include(rCon => rCon.ConsumoCliente)
                 .Where(rCon => rCon.Id.Equals(id))
                 .SingleOrDefaultAsync();
@@ -32,7 +33,7 @@ namespace Atividade_PeDeFava.Repository.implementacoes
                 .Where(rRefe => rRefe.Id.Equals(id))
                 .SingleOrDefaultAsync();
 
-            return await query;
+            return await query;*/
         }
     }
 }

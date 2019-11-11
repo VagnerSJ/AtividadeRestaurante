@@ -36,7 +36,7 @@ namespace Atividade_PeDeFava.Controllers
             }
         }
 
-        [HttpPut("update", Name = "UpdateCliente")]
+        [HttpPut(Name = "UpdateCliente")]
         public async Task<IActionResult> Update(Cliente cliente)
         {
             try
@@ -53,7 +53,7 @@ namespace Atividade_PeDeFava.Controllers
             }
         }
 
-        [HttpDelete("delete/{id}", Name = "DeleteCliente")]
+        [HttpDelete("{id}", Name = "DeleteCliente")]
         public async Task<IActionResult> Delete(int id)
         {
             try
@@ -70,7 +70,7 @@ namespace Atividade_PeDeFava.Controllers
             }
         }
 
-        [HttpGet("getById/{id}", Name = "GetByIdCliente")]
+        [HttpGet("{id}", Name = "GetByIdCliente")]
         public async Task<IActionResult> Get(int id)
         {
             try
