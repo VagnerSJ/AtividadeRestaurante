@@ -35,10 +35,6 @@ namespace Atividade_PeDeFava.Controllers
                 var newCliente = await _clienteBusiness.Create(cliente);
                 return Ok(newCliente);
             }
-            catch (Exception ex)
-            {
-                return BadRequest($"{ex.Message} - {ex.InnerException}");
-            }
         }
 
         [HttpPut(Name = "UpdateCliente")]
