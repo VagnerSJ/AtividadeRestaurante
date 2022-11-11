@@ -25,6 +25,10 @@ namespace Atividade_PeDeFava.Controllers
             try
             {
                 //Teste sonar
+                if (cliente != null)
+                {
+                    //IF vazio
+                }
                 if (!ModelState.IsValid || cliente == null)
                     return BadRequest(ModelState);
 
